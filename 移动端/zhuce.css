@@ -1,0 +1,191 @@
+/*
+* @Author: Lenovo
+* @Date:   2018-08-15 10:09:19
+* @Last Modified by:   Lenovo
+* @Last Modified time: 2018-08-15 12:44:53
+*/
+*{
+	padding:0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+
+    @media screen and (min-width:360px){
+	html{
+		font-size: calc(360/750*100px);
+	}
+}
+    @media screen and (min-width:375px){
+	html{
+		font-size: calc(375/750*100px);
+	}
+}
+    @media screen and (min-width:412px){
+	html{
+		font-size: calc(412/750*100px);
+	}
+}
+    @media screen and (min-width:414px){
+	html{
+		font-size: calc(414/750*100px);
+	}
+}
+    @media screen and (min-width:750px){
+	html{
+		font-size: calc(750/750*100px);
+	}
+}
+    @media screen and (min-width:768px){
+	html{
+		font-size: calc(768/750*100px);
+	}
+}
+    @media screen and (min-width:1024px){
+	html{
+		font-size: calc(1024/750*100px);
+	}
+}
+.fty{
+	width: 100%;
+	height: 13.3rem;
+	background: yellow;
+}
+.fty img{
+	width: 100%;
+	height: 100%;
+
+}
+.fty .werrr{
+	width: 7rem;
+	height: 4.7rem;
+	border-radius: 0.5rem;
+	background: white;
+	position: fixed;
+	left: 0.25rem;
+	top: 6.7rem;
+}
+.fty .werrr .dfg{
+	width: 0.2rem;
+	height: 0.2rem;
+	border-radius: 50%;
+	background: red;
+	margin-left: 0.6rem;
+	margin-top: 0.3rem;
+}
+.fty .werrr .dfog{
+	width: 0.2rem;
+	height: 0.2rem;
+	border-radius: 50%;
+	background: #FDB416;
+	margin-left: 0.9rem;
+	margin-top: -0.2rem;
+}
+.fty .werrr  h{
+	font-size: 0.2rem;
+	margin-left: 1.2rem;
+	margin-top: -0.24rem;
+	display: block;
+}
+.fty .werrr .erw{
+	width:0.6rem;
+	height: 0.6rem;
+	margin-left: 0.5rem;
+	margin-top: -0.04rem;
+	display: block;
+}
+
+.fty .werrr input{
+	width: 5rem;
+	height: 0.45rem;
+	outline: none;
+	border: none;
+	border-radius: 0.3rem;
+	color: white;
+	padding-left: 0.3rem;
+	/* background: red; */
+	border: 0.01rem solid  #FDB417;
+	margin-left:1.2rem;
+	margin-top: -0.5rem;
+	display: block;
+	font-size: 0.2rem;
+}
+.fty .werrr p{
+	font-size: 0.2rem;
+	color:  black;
+	margin-top: -0.45rem;
+	margin-left: 1.3rem;
+	display: block;
+}
+.fty .werrr .yanx{
+	width: 1.3rem;
+	height: 0.5rem;
+	background: #FB4B0F;
+	border-radius: 0.2rem;
+	margin-top: 0.42rem;
+	margin-left: 2.8rem;
+	text-align: center;
+	font-size: 0.2rem;
+	color: white;
+	line-height: 0.4rem;
+}
+.fty .yacnx{
+	width: 1.3rem;
+	height: 0.5rem;
+	background: #FDB417;
+	border-radius: 0.2rem;
+	/* margin-top: 0.42rem; */
+	/* margin-left: 2.8rem; */
+	position: fixed;
+	left: 6rem;
+	top: 1rem;
+	text-align: center;
+	font-size: 0.2rem;
+	color: white;
+	line-height: 0.45rem;
+}
+.fty .werrr .erwq{
+	width:0.6rem;
+	height: 0.6rem;
+	margin-left: 0.5rem;
+	margin-top: 0.1rem;
+	display: block;
+}
+.fty .last{
+    width: 2.5rem;
+    height: 0.3rem;
+    font-size: 0.2rem;
+    color: #FDB417;
+    /* background: red; */
+    margin-left: 2.2rem;
+    margin-top: 0.1rem;
+    text-align: center;
+
+}
+.fty .xxd{
+	width: 1.1rem;
+	height: 0.5rem;
+	display: block;
+	margin-left: 2.85rem;
+	margin-top: 0.2rem;
+}
+.fty .yuanyuan{
+	width: 2.8rem;
+	height: 2.8rem;
+	border-radius: 50%;
+	position: fixed;
+	/* background: white; */
+	left: 2.4rem;
+	top: 2rem;
+}
+.fty .yuanyuan .rtyo{
+	width: 100%;
+	height: 100%;
+}
+.fty .yuanyuan .hua{
+	width: 4.2rem;
+	height: 1.2rem;
+	font-size: 0.5rem;
+	/* background: yellow; */
+	color: #FDB417;
+}
